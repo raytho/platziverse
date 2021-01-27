@@ -5,3 +5,7 @@
 *.sql
 *.png
 *.log
+*package-lock.json
+*.nyc_output/
+*coverage/
+*node_modules/
